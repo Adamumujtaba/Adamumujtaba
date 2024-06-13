@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Adamumujtaba
-- 👀 I’m interested in learning software engineering 
-- 🌱 I’m currently learning web development (HTMl, CSS, JS-React, PHP) 
-- 💞️ I’m looking to collaborate on simple project 
-- 📫 How to reach me mujtabaadamu1998@gmal.com
+👋 Hi, I’m @Adamumujtaba  
+👀 Experienced Software Engineer specializing in React and React Native  
+🌱 Skilled in designing UI components, managing state, and frontend-backend communication  
+💞️ Proficient in mentoring junior developers and conducting code reviews  
+📫 Reach me at: mujtabaadamu1998@gmail.com  
 
 <!---
 Adamumujtaba/Adamumujtaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
